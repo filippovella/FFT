@@ -6,3 +6,4 @@ The elaboration is performed in matlab
 Different harmonic can be selected
 
 
+![Example input image](/cat.png)
